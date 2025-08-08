@@ -1,0 +1,1 @@
+print("Ashmeet babu khatarnak")
